@@ -105,4 +105,4 @@ deploy:
   type: git
   repository: git@github.com:shichendahai2024/shichendahai2024.github.io.git
   branch: master
-  identityfile: C:\Users\hisao\.ssh\shichendahai
+  privateKey: C:\Users\hisao\.ssh\shichendahai
